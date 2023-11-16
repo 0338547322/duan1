@@ -1,0 +1,12 @@
+E:\duan1\QuanLyTrungTamAmNhac\DTO_QLTrungTamAmNhac\bin\Debug\net6.0\DTO_QLTrungTamAmNhac.deps.json
+E:\duan1\QuanLyTrungTamAmNhac\DTO_QLTrungTamAmNhac\bin\Debug\net6.0\DTO_QLTrungTamAmNhac.dll
+E:\duan1\QuanLyTrungTamAmNhac\DTO_QLTrungTamAmNhac\bin\Debug\net6.0\DTO_QLTrungTamAmNhac.pdb
+E:\duan1\QuanLyTrungTamAmNhac\DTO_QLTrungTamAmNhac\obj\Debug\net6.0\DTO_QLTrungTamAmNhac.csproj.AssemblyReference.cache
+E:\duan1\QuanLyTrungTamAmNhac\DTO_QLTrungTamAmNhac\obj\Debug\net6.0\DTO_QLTrungTamAmNhac.GeneratedMSBuildEditorConfig.editorconfig
+E:\duan1\QuanLyTrungTamAmNhac\DTO_QLTrungTamAmNhac\obj\Debug\net6.0\DTO_QLTrungTamAmNhac.AssemblyInfoInputs.cache
+E:\duan1\QuanLyTrungTamAmNhac\DTO_QLTrungTamAmNhac\obj\Debug\net6.0\DTO_QLTrungTamAmNhac.AssemblyInfo.cs
+E:\duan1\QuanLyTrungTamAmNhac\DTO_QLTrungTamAmNhac\obj\Debug\net6.0\DTO_QLTrungTamAmNhac.csproj.CoreCompileInputs.cache
+E:\duan1\QuanLyTrungTamAmNhac\DTO_QLTrungTamAmNhac\obj\Debug\net6.0\DTO_QLTrungTamAmNhac.dll
+E:\duan1\QuanLyTrungTamAmNhac\DTO_QLTrungTamAmNhac\obj\Debug\net6.0\refint\DTO_QLTrungTamAmNhac.dll
+E:\duan1\QuanLyTrungTamAmNhac\DTO_QLTrungTamAmNhac\obj\Debug\net6.0\DTO_QLTrungTamAmNhac.pdb
+E:\duan1\QuanLyTrungTamAmNhac\DTO_QLTrungTamAmNhac\obj\Debug\net6.0\ref\DTO_QLTrungTamAmNhac.dll

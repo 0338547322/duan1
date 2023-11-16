@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "65539e8e6b86442f2fb91a82"
+  },
+  "machinhanh": "CN001",
+  "diachi": "Công Viên Phần Mềm Quang Trung",
+  "SDT": "012298945565",
+  "LinhVuc": "Âm Nhạc"
+},
+{
+  "_id": {
+    "$oid": "65539fdd6b86442f2fb91a83"
+  },
+  "machinhanh": "CN002",
+  "diachi": "Công Viên Phần Mềm Quang Trung",
+  "SDT": "0994575627",
+  "LinhVuc": "Anh Văn"
+},
+{
+  "_id": {
+    "$oid": "65539fdd6b86442f2fb91a84"
+  },
+  "machinhanh": "CN003",
+  "diachi": "Quận 7 Sài Gòn ReverSide",
+  "SDT": "01224119857",
+  "LinhVuc": "Âm Nhạc, Anh Văn"
+}]

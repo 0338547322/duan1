@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6553aca56b86442f2fb91a8f"
+  },
+  "makhoahoc": "KH001",
+  "tenkhoahoc": "Piano",
+  "sobuoihoc": "36",
+  "hocphi": "4200000",
+  "manv": "NV003"
+},
+{
+  "_id": {
+    "$oid": "6553aca56b86442f2fb91a90"
+  },
+  "makhoahoc": "KH002",
+  "tenkhoahoc": "Guitar",
+  "sobuoihoc": "12",
+  "hocphi": "1000000",
+  "manv": "NV002"
+}]

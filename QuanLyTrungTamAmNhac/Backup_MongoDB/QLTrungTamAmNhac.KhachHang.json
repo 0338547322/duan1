@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6553a2e36b86442f2fb91a85"
+  },
+  "makhachhang": "KH001",
+  "tenkhachhang": "Lê Thanh Trường",
+  "SDT": "0999665558",
+  "diachi": "1/7a ấp an bình xã an ngãi huyện an ",
+  "email": "truongltps21157@gmail.com",
+  "ghichu": "nhà giàu ba má keo",
+  "manv": "NV002"
+},
+{
+  "_id": {
+    "$oid": "6553a2e36b86442f2fb91a86"
+  },
+  "makhachhang": "KH002",
+  "tenkhachhang": "Nguyễn Minh Hiếu",
+  "SDT": "0546548222",
+  "diachi": "Quận 1 đường a mà",
+  "email": "hieunmps44557@gmail.com",
+  "ghichu": "Tao ngheo",
+  "manv": "NV002"
+},
+{
+  "_id": {
+    "$oid": "6553a2e36b86442f2fb91a87"
+  },
+  "makhachhang": "KH003",
+  "tenkhachhang": "Nguyễn Thị Trinh",
+  "SDT": "0122554887",
+  "diachi": "quận 2 đường thiên đường",
+  "email": "trinhntps55788@gmail.com",
+  "ghichu": "Tao giàu",
+  "manv": "NV002"
+}]
