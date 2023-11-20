@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "655398c66b86442f2fb91a7b"
+  },
+  "mavaitro": "VT01",
+  "tenvaitro": "QuanLy",
+  "nhiemvu": "Quản lý toàn bộ trung tâm",
+  "chuyenmon": "Quản lý",
+  "luong": "1000000000"
+},
+{
+  "_id": {
+    "$oid": "65539c756b86442f2fb91a7c"
+  },
+  "mavaitro": "VT02",
+  "tenvaitro": "Giáo Vụ",
+  "nhiemvu": "Theo dõi tình hình hoạt động của trung tâm",
+  "chuyenmon": "Giám Sát",
+  "luong": "5000000"
+},
+{
+  "_id": {
+    "$oid": "65539c756b86442f2fb91a7d"
+  },
+  "mavaitro": "VT03",
+  "tenvaitro": "Giảng Viên",
+  "nhiemvu": "Trực tiếp giảng dạy cho học viên",
+  "chuyenmon": "Âm nhạc",
+  "luong": "1950000"
+},
+{
+  "_id": {
+    "$oid": "65539c756b86442f2fb91a7e"
+  },
+  "mavaitro": "VT04",
+  "tenvaitro": "Giảng Viên",
+  "nhiemvu": "Trực tiếp giảng dạy cho học viên",
+  "chuyenmon": "Anh văn",
+  "luong": "1950000"
+},
+{
+  "_id": {
+    "$oid": "65539c756b86442f2fb91a7f"
+  },
+  "mavaitro": "VT05",
+  "tenvaitro": "Trợ Giảng",
+  "nhiemvu": "Hổ trợ giảng viên",
+  "chuyenmon": "Âm nhạc",
+  "luong": "1900000"
+},
+{
+  "_id": {
+    "$oid": "65539c756b86442f2fb91a80"
+  },
+  "mavaitro": "VT06",
+  "tenvaitro": "Trợ Giảng",
+  "nhiemvu": "Hổ trợ giảng viên",
+  "chuyenmon": "Anh văn",
+  "luong": "1900000"
+},
+{
+  "_id": {
+    "$oid": "65539c756b86442f2fb91a81"
+  },
+  "mavaitro": "VT07",
+  "tenvaitro": "Kiểm toán",
+  "nhiemvu": "Theo giỏi và cập nhật tình hình tài chính của trung tâm",
+  "chuyenmon": "Kế Toán",
+  "luong": "1980000"
+}]

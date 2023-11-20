@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "65557c56fd3fa4919fc9902c"
+  },
+  "manv": "NV008",
+  "tennv": "hung dep trai lam",
+  "namsinh": "16/11/2023",
+  "email": "tranngoch509@gmail.com",
+  "SDT": "03625421616",
+  "diachi": "DCM",
+  "matkhau": "nd28Sbh0j7k3Z40XZWSnQn2WtAXQJKYuwAAzplE7wyQ=",
+  "hinhanh": "C:\\Users\\Hi\\OneDrive\\Hình ảnh\\z3831996830157_b7580fe26a968405afcc899810c76308.jpg",
+  "luong": "5161616161",
+  "phai": "Nam",
+  "mavaitro": "VT002",
+  "noilamviec": "CN001"
+},
+{
+  "_id": {
+    "$oid": "6556426d7139bcd306e92035"
+  },
+  "manv": "NV009",
+  "tennv": "Tran Ngoc Hung",
+  "namsinh": "16/11/2023",
+  "email": "tranngochung7569@gmail.com",
+  "SDT": "0338547322",
+  "diachi": "HCM",
+  "matkhau": "nd28Sbh0j7k3Z40XZWSnQn2WtAXQJKYuwAAzplE7wyQ=",
+  "hinhanh": "C:\\Users\\Hi\\OneDrive\\Hình ảnh\\1143221.jpg",
+  "luong": "999999999999",
+  "phai": "Nam",
+  "mavaitro": "VT01",
+  "noilamviec": "CN001"
+},
+{
+  "_id": {
+    "$oid": "6556654e1021dacca017e2fc"
+  },
+  "manv": "NV010",
+  "tennv": "vo ba tan",
+  "namsinh": "16/11/2023",
+  "email": "votan070520@gmail.com",
+  "SDT": "0123456789",
+  "diachi": "hcm",
+  "matkhau": "ci3ilB82J2p60iq/wTjpkv+0WerQZifDukICQWILYsI=",
+  "hinhanh": "C:\\Users\\Hi\\OneDrive\\Hình ảnh\\1143221.jpg",
+  "luong": "979797979",
+  "phai": "Nam",
+  "mavaitro": "VT02",
+  "noilamviec": "VT01"
+},
+{
+  "_id": {
+    "$oid": "6556746d68632a5701d640c5"
+  },
+  "manv": "NV011",
+  "tennv": "Nhân",
+  "namsinh": "06/08/2002",
+  "email": "nhan87209@gmail.com",
+  "SDT": "236346345734``",
+  "diachi": "Quận 12",
+  "matkhau": "jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=",
+  "hinhanh": "C:\\Users\\Hi\\OneDrive\\Hình ảnh\\1143221.jpg",
+  "luong": "353464564",
+  "phai": "Nam",
+  "mavaitro": "VT03",
+  "noilamviec": "CN003"
+}]

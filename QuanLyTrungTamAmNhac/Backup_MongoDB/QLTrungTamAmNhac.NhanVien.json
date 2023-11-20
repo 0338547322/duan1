@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "655397d36b86442f2fb91a7a"
+  },
+  "manv": "NV001",
+  "tennv": "Trần Ngọc Hưng",
+  "namsinh": "10/02/2002",
+  "email": "tranngochung7569@gmail.com",
+  "SDT": "0338547322",
+  "diachi": "quan 12",
+  "matkhau": "123456",
+  "hinhanh": "",
+  "luong": "100000000000000000",
+  "phai": "nam",
+  "mavaitro": "VT01",
+  "noilamviec": "chinhanhgido"
+},
+{
+  "_id": {
+    "$oid": "6553a4986b86442f2fb91a88"
+  },
+  "manv": "NV002",
+  "tennv": "Võ Bá Tần",
+  "namsinh": "07/05/2000",
+  "email": "votan070520@gmail.com",
+  "SDT": "0908177953",
+  "diachi": "quan 7",
+  "matkhau": "123456",
+  "hinhanh": "",
+  "luong": "99999999999999999",
+  "phai": "nam",
+  "mavaitro": "VT01",
+  "noilamviec": "Công Viên Phần Mềm Quang Trung"
+},
+{
+  "_id": {
+    "$oid": "6553a4986b86442f2fb91a89"
+  },
+  "manv": "NV003",
+  "tennv": "Nguyễn Trung Nhân",
+  "namsinh": "22/2/2002",
+  "email": "NguyenTrungNhan@gmail.com",
+  "SDT": "0388775544",
+  "diachi": "DakLak",
+  "matkhau": "123456",
+  "hinhanh": "",
+  "luong": "10000",
+  "phai": "nam",
+  "mavaitro": "VT02",
+  "noilamviec": "Công Viên Phần Mềm Quang Trung"
+},
+{
+  "_id": {
+    "$oid": "655497b90e69269a8990669e"
+  },
+  "manv": "NV004",
+  "tennv": "fdbdfbdfb",
+  "namsinh": "15/11/2023",
+  "email": "dfbdf",
+  "SDT": "dfbdf",
+  "diachi": "dfbdfb",
+  "matkhau": "bdfb",
+  "hinhanh": "dfbdfb",
+  "luong": "bdfb",
+  "phai": "nam",
+  "mavaitro": "dbfbd",
+  "noilamviec": "fdbdf"
+},
+{
+  "_id": {
+    "$oid": "6554ede06b86442f2fb91a96"
+  },
+  "manv": "NV001",
+  "tennv": "Trần Ngọc Hưng",
+  "namsinh": "10/02/2002",
+  "email": "tranngochung7569@gmail.com",
+  "SDT": "0338547322",
+  "diachi": "quan 12",
+  "matkhau": "123456",
+  "hinhanh": "",
+  "luong": "100000000000000000",
+  "phai": "nam",
+  "mavaitro": "daigia",
+  "noilamviec": "chinhanhgido"
+}]

@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6553ae7b6b86442f2fb91a91"
+  },
+  "mahv": "HV001",
+  "tenhv": "Nguyễn Đình Quý",
+  "namsinh": "15/10/2010",
+  "SDT": "011445577",
+  "diachi": "Quận 9",
+  "phai": "nam",
+  "hinhanh": "",
+  "makhoahoc": "KH001"
+}]
